@@ -1,0 +1,50 @@
+@import 'sencha-touch/default/all';
+
+// You may remove any of the following modules that you
+// do not use in order to create a smaller css file.
+//@include sencha-panel;
+//@include sencha-buttons;
+//@include sencha-sheet;
+//@include sencha-picker;
+//@include sencha-tabs;
+//@include sencha-toolbar;
+//@include sencha-toolbar-forms;
+//@include sencha-indexbar;
+//@include sencha-list;
+@include sencha-layout;
+@include sencha-carousel;
+//@include sencha-form;
+//@include sencha-msgbox;
+
+// Your custom code goes here...
+
+.head, .body, .legs {
+  background-color: #fff;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 0;
+}
+
+.head-1{ background-image: url('/images/head-1.jpg'); }
+.head-2{ background-image: url('/images/head-2.jpg'); }
+.head-3{ background-image: url('/images/head-3.jpg'); }
+.head-4{ background-image: url('/images/head-4.jpg'); }
+.head-5{ background-image: url('/images/head-5.jpg'); }
+.head-6{ background-image: url('/images/head-6.jpg'); }
+.head-7{ background-image: url('/images/head-7.jpg'); }
+
+.body-1{ background-image: url('/images/body-1.jpg'); }
+.body-2{ background-image: url('/images/body-2.jpg'); }
+.body-3{ background-image: url('/images/body-3.jpg'); }
+.body-4{ background-image: url('/images/body-4.jpg'); }
+.body-5{ background-image: url('/images/body-5.jpg'); }
+.body-6{ background-image: url('/images/body-6.jpg'); }
+.body-7{ background-image: url('/images/body-7.jpg'); }
+
+.legs-1{ background-image: url('/images/legs-1.jpg'); }
+.legs-2{ background-image: url('/images/legs-2.jpg'); }
+.legs-3{ background-image: url('/images/legs-3.jpg'); }
+.legs-4{ background-image: url('/images/legs-4.jpg'); }
+.legs-5{ background-image: url('/images/legs-5.jpg'); }
+.legs-6{ background-image: url('/images/legs-6.jpg'); }
+.legs-7{ background-image: url('/images/legs-7.jpg'); }
