@@ -12,3 +12,6 @@ How to Use:
 Credits:
 
 Image courtesy of: http://www.flickr.com/photos/27769519@N08/3290723573/
+
+View app from a webkit browser: http://picot.ca/general/sencha/people/
+
